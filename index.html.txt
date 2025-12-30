@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NestBridge</title>
+</head>
+<body>
+  <h1>NestBridge Website is Working</h1>
+  <p>If you can see this, the site is live.</p>
+</body>
+</html>
